@@ -6,7 +6,7 @@ description: Featured lesson plans and tutorial series.
 Our lessons are designed for educational programs of varying lengths and skill levels. Find everything from two hour workshops to semester long programs.
 
 <Alert severity="info">
-We've curated some samples of our most popular work, but the rest of the content can be found in the **left** navigation bar.
+Looking for more? We've highlighted some of our most popular lesson plans here, but you can discover a wealth of additional educational content in the navigation bar on the **left** side of the page.
 </Alert>
 
 ## Featured Lesson Plans
